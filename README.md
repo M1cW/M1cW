@@ -3,9 +3,9 @@
 
 I'm Ziqi (Michael) Wang. Born in Beijing China and currently studying as a Freshman in UC Santa Barbara. I am passionate in solving problems including algorithmic ones and those in machine learning. 
 
-Skills: C++/Python (use the most) //
-        R/SQL //
-        HTML/CSS //
+Skills: > C++/Python (use the most)
+        > R/SQL 
+        > HTML/CSS 
 
 - 🌱 Keep developping skills
 - 📫 How to reach me: micwangmicwang@gmail.com
