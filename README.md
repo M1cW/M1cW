@@ -3,7 +3,7 @@
 
 I'm Ziqi (Michael) Wang. Born in Beijing China and currently studying as a Sophomore in UC Santa Barbara. 
 
-Skills: Proficient in **_C++/Python (Numpy+Matplotlib+Pytorch+Scipy+Pandas)_** R/SQL HTML/CSS 
+Skills: Proficient in **_C++/Python (Numpy+Matplotlib+Pytorch+Scipy+Pandas)_**. Skilled in R/SQL
 
 - 🌱 Keep learning
 - 📫 How to reach me: micwangmicwang@gmail.com
