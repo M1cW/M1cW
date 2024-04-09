@@ -1,5 +1,5 @@
 ### Hi there 👋, Ziqi (Michael) Wang
-#### Deep learning, machine learning, software development,
+#### Deep Learning, Machine Learning, Mathematics
 
 I'm Ziqi (Michael) Wang. 
 Skills: Proficient in **_C++/Python (Numpy+Matplotlib+Pytorch+Scipy+Pandas)_**. Skilled in R/SQL
