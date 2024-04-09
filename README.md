@@ -1,8 +1,7 @@
 ### Hi there 👋, Ziqi (Michael) Wang
 #### Deep learning, machine learning, software development,
 
-I'm Ziqi (Michael) Wang. Born in Beijing China and currently studying as a Sophomore in UC Santa Barbara. 
-
+I'm Ziqi (Michael) Wang. 
 Skills: Proficient in **_C++/Python (Numpy+Matplotlib+Pytorch+Scipy+Pandas)_**. Skilled in R/SQL
 
 - 🌱 Keep learning
