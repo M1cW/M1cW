@@ -2,7 +2,7 @@
 #### Deep Learning, Machine Learning, Mathematics
 
 I'm Ziqi (Michael) Wang. 
-Skills: Proficient in **_C++/Python (Numpy+Matplotlib+PyTorch+Scipy+Pandas+Sklean)_**. 
+Skills: Proficient in **_C++/Python (Numpy+Matplotlib+PyTorch+Scipy+Pandas)_**. 
 
 - 🌱 Keep learning
 - 📫 How to reach me: michael_wang@berkeley.edu/micwangmicwang@gmail.com
